@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>June</title>
+		<style> 
+	h1 {
+		color: cyan;
+		font-family: Lucida Sans Unicode;
+		text-align: center;
+		background-color: rgb(255,209,220);
+	}
+	h2 {
+		text-align: center;
+	}
+	footer {
+		text-align: center;
+	}
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<h2>Summer 2016</h2> 
+		</div>
+		<div id="nav">
+    		<ul style="list-style-type:none">
+        		<li><a href="/">May</a></li>
+	        	<li><a href="/june">June</a></li>
+	        	<li><a href="/july">July</a></li>
+	        	<li><a href="/august">August</a></li>
+        		<!-- <li><a href="/cv">CV</a></li> -->
+        		<!-- <li><a href="/blog">Blog</a></li> -->
+    		</ul>
+		</div>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>This is a documentation of my summer in 2016.</h1>
+				<p style="color:pink;">Currently has nothing <em>haha</em>. <a href="/june"><em>Read more about my life...</em></a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<div id="footer">
+    		<ul>
+        		<li><a href="mailto:yfangechiu@berkeley.edu">email</a></li>
+        		<li><a href="https://github.com/yfangechiu">github account</a></li>
+			</ul>
+		</div>
+	</body>
+</html>
